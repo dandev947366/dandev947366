@@ -34,4 +34,14 @@ hobbies: ["Reading", "Walking", "Guitar"]
 ---
 [![](https://visitcount.itsvg.in/api?id=dandev947366&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 🌠 Projetcs:
+
+- [Job Tracking](https://github.com/dandev947366/Job-Applications-Tracking) - Job applications tracking web app
+- [Twitter API](https://github.com/dandev947366/TwitterAPI) - API for social site like Twitter
+- [Funix Voting Daap](https://github.com/dandev947366/funix-voting-daap) - Daap for voting using blockchain technology
+- [Lego Webservice](https://github.com/dandev947366/lego) - Webservice for controlling Lego robot using Java and Bootstrap
+- [Eastern Kitchen](https://github.com/dandev947366/Eastern-kitchen) - Restaurant website with booking and ordering online
+- [Hangman](https://github.com/dandev947366/Hangman) - Hangman app with Python
+- [Movie App](https://github.com/dandev947366/movieapp) - Website to book tickets online with blockchain tech
+- [Lucky 7](https://github.com/dandev947366/Lucky7) - Lucky 7 app in Java
