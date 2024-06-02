@@ -43,5 +43,6 @@ hobbies: ["Reading", "Walking", "Guitar"]
 - [Lego Webservice](https://github.com/dandev947366/lego) - Webservice for controlling Lego robot using Java and Bootstrap
 - [Eastern Kitchen](https://github.com/dandev947366/Eastern-kitchen) - Restaurant website with booking and ordering online
 - [Hangman](https://github.com/dandev947366/Hangman) - Hangman app with Python
+- [Funix Pricing Chain](https://github.com/dandev947366/FunixPricingChain) - Funix sim NFTs deployed on Opensea testnet with web app 
 - [Movie App](https://github.com/dandev947366/movieapp) - Website to book tickets online with blockchain tech
 - [Lucky 7](https://github.com/dandev947366/Lucky7) - Lucky 7 app in Java
