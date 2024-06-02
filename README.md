@@ -1,6 +1,31 @@
 ## Hi there, I'm Dan Le 👋
 ![Header](https://github.com/dandev947366/dandev947366/blob/main/images/header/header.png)
 
+
+<h2> 👨🏻‍💻 &nbsp;About Me</h2>
+
+```yaml
+name: Dan Le
+located_in: Helsinki, Finland
+education:
+  [
+    "Blockchain Developer",
+    "Student at HAMK"
+  ]
+technical_background:
+  [
+    "Javascript",
+    "React",
+    "NodeJs",
+    "Solidity",
+    "Blockchain",
+  ]
+
+hobbies: ["Reading", "Walking", "Guitar"]
+```
+  
+---  
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dandev947366&theme=blueberry&hide_border=false)<br/>
