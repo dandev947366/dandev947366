@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Dan Le 👋
 ![Header](https://github.com/dandev947366/dandev947366/blob/main/images/header/header.png)
 <!--
 **dandev947366/dandev947366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
