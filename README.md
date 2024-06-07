@@ -1,5 +1,5 @@
 ## Hi there, I'm Dan Le 👋
-![Header](https://github.com/dandev947366/dandev947366/blob/main/images/header/header.png)
+![Header](https://github.com/dandev947366/dandev947366/blob/main/images/header.png)
 
 
 <h2> 👨🏻‍💻 &nbsp;About Me</h2>
