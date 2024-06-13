@@ -15,6 +15,7 @@ education:
 technical_background:
   [
     "Javascript",
+    "Python",
     "React",
     "NodeJs",
     "Solidity",
