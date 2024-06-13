@@ -43,7 +43,7 @@ hobbies: ["Reading", "Walking", "Guitar"]
 - [Funix Voting Daap](https://github.com/dandev947366/funix-voting-daap) - Daap for voting using blockchain technology
 - [Lego Webservice](https://github.com/dandev947366/lego) - Webservice for controlling Lego robot using Java and Bootstrap
 - [Eastern Kitchen](https://github.com/dandev947366/Eastern-kitchen) - Restaurant website with booking and ordering online
-- [Salary Analytics](https://github.com/dandev947366/dandev947366.github.io/blob/main/assets/DataAnalysis%20Project%20-%20PQD%20Group%20-%20Colab-c2f51ca3.pdf) - Analytics using Python, Numpy, Pandas, Matplotlib, Seaborn to identify the factors impacting salary and differences between sectors.
+- [Salary Analytics](https://github.com/dandev947366/Salary-by-Job-Title-and-Country/blob/main/DataAnalysis%20Project%20-%20PQD%20Group%20-%20Colab.pdf) - Analytics using Python, Numpy, Pandas, Matplotlib, Seaborn to identify the factors impacting salary and differences between sectors.
 - [Hangman](https://github.com/dandev947366/Hangman) - Hangman app with Python
 - [Funix Pricing Chain](https://github.com/dandev947366/FunixPricingChain) - Funix sim NFTs deployed on Opensea testnet with web app 
 - [Movie App](https://github.com/dandev947366/movieapp) - Website to book tickets online with blockchain tech
