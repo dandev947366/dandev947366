@@ -38,8 +38,6 @@ hobbies: ["Reading", "Walking", "Guitar"]
 
 # 🌠 Projetcs:
 
-- [Job Tracking](https://github.com/dandev947366/Job-Applications-Tracking) - Job applications tracking web app
-- [Twitter API](https://github.com/dandev947366/TwitterAPI) - API for social site like Twitter
 - [Funix Voting Daap](https://github.com/dandev947366/funix-voting-daap) - Daap for voting using blockchain technology
 - [Lego Webservice](https://github.com/dandev947366/lego) - Webservice for controlling Lego robot using Java and Bootstrap
 - [Eastern Kitchen](https://github.com/dandev947366/Eastern-kitchen) - Restaurant website with booking and ordering online
